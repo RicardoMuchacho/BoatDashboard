@@ -1,0 +1,20 @@
+[
+  {
+    "boat_id": 10,
+    "boat_name": "Fondo de Bikini",
+    "price": 100,
+    "description": "Muy bonito"
+  },
+  {
+    "boat_id": 11,
+    "boat_name": "Krusty Crab",
+    "price": 500,
+    "description": "El mejor para las malas"
+  },
+  {
+    "boat_id": 11,
+    "boat_name": "El Bote de MARCUS",
+    "price": 500,
+    "description": "El mejor para las malas"
+  }
+]
